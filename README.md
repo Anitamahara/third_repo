@@ -1,2 +1,2 @@
 # third_repo
-my third gite repo
+my third git repo
